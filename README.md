@@ -1,4 +1,4 @@
-# Hindi-Text-recogntion-
+# Hindi-Text-recogntion
 
 This is a text recognition model trained on MLT 2019 data. Currently the model is able to  recognise the characters in an image upto an accuracy of 51.75% (Based on 5 fold Cross validation). 
 
