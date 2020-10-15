@@ -6,4 +6,6 @@ The data on which this model was trained can be accessed here.
 
 https://drive.google.com/drive/folders/1gQeEafYGVEPR2-ue0TL436Kr2pLkmeyX?usp=sharing
 
+![alt-text](https://github.com/DragonPG2000/Hindi-Text-recogntion-/blob/main/Screenshot%20from%202020-10-15%2017-30-42.png)
+
 Built as part of my internship with Offnote Labs. 
