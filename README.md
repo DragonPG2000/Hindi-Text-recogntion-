@@ -6,6 +6,12 @@ The data on which this model was trained can be accessed here.
 
 https://drive.google.com/drive/folders/1gQeEafYGVEPR2-ue0TL436Kr2pLkmeyX?usp=sharing
 
+This model uses TF2CV 
+https://pypi.org/project/tf2cv/
+
+In order to install it run the command
+pip install tf2cv 
+
 ![alt-text](https://github.com/DragonPG2000/Hindi-Text-recogntion-/blob/main/Screenshot%20from%202020-10-15%2017-30-42.png)
 
 Credits:
