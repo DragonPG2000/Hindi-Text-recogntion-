@@ -10,6 +10,7 @@ https://drive.google.com/drive/folders/1gQeEafYGVEPR2-ue0TL436Kr2pLkmeyX?usp=sha
 
 Credits:
 https://github.com/AakashKumarNain  for his awesome tutorial for Keras OCR. 
+
 https://github.com/bckenstler/CLR/blob/master/clr_callback.py 
 
 Built as part of my internship with Offnote Labs. 
