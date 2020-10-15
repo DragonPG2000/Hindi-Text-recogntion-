@@ -8,4 +8,8 @@ https://drive.google.com/drive/folders/1gQeEafYGVEPR2-ue0TL436Kr2pLkmeyX?usp=sha
 
 ![alt-text](https://github.com/DragonPG2000/Hindi-Text-recogntion-/blob/main/Screenshot%20from%202020-10-15%2017-30-42.png)
 
+Credits:
+https://github.com/AakashKumarNain  for his awesome tutorial for Keras OCR. 
+https://github.com/bckenstler/CLR/blob/master/clr_callback.py 
+
 Built as part of my internship with Offnote Labs. 
